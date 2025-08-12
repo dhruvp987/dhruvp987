@@ -12,6 +12,8 @@ That’s why I decided to pursue Computer Science, and keep learning and living 
 I helped on a website that can suggest ways to improve a room’s safety against natural disasters, using Google Gemini, winning 1st place at a J.P. Morgan Chase affiliated hackathon. Right now, I am learning how to leverage LLMs even further, first with a chatbot that can easily host and make accessible local, powerful, and private models on a variety of hardware.
 
 I want to build exciting things! Today, the excitement is AI. Whatever it is tomorrow, I will be there!
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,go,cs,java,c,cpp,bash,git,github,fastapi,react,mysql,sqlite,pytorch,linux,docker,azure,dotnet,maven,postman,neovim,emacs,obsidian,stackoverflow,apple,redhat,windows)](https://skillicons.dev)
 <!--
 **dhruvp987/dhruvp987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
