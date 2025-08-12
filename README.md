@@ -1,4 +1,4 @@
-## Hi mom 👋
+## Hi mom and dad 👋
 I want to build the fun stuff that everyone can enjoy.
 
 Why? Because it is exciting what can be done, and the potential is life-changing!
