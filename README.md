@@ -1,4 +1,6 @@
 ## Hi mom and dad 👋
+<a href="https://www.linkedin.com/in/dhruvpatel789"><img alt="LinkedIn Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
+
 I want to build the fun stuff that everyone can enjoy.
 
 Why? Because it is exciting what can be done, and the potential is life-changing!
