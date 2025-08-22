@@ -11,7 +11,7 @@ Now, I want to try to open doors, make life easier, and put smiles on people’s
 
 That’s why I decided to pursue Computer Science, and keep learning and living with the cutting edge.
 
-I helped on a website that can suggest ways to improve a room’s safety against natural disasters, using Google Gemini, winning 1st place at a J.P. Morgan Chase affiliated hackathon. Right now, I am learning how to leverage LLMs even further, first with a chatbot that can easily host and make accessible local, powerful, and private models on a variety of hardware.
+I helped on a website that can suggest ways to improve a room’s safety against natural disasters using Google Gemini, winning 1st place at a J.P. Morgan Chase affiliated hackathon. Right now, I am learning how to leverage LLMs even further, first with a chatbot that can easily host and make accessible local, powerful, and private models on a variety of hardware.
 
 I want to build exciting things! Today, the excitement is AI. Whatever it is tomorrow, I will be there!
 
