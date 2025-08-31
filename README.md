@@ -8,7 +8,7 @@ Why? Because it is exciting what can be done, and the potential is life-changing
 
 Growing up, I saw computers change the world around us, from the Web to now generative AI. These are things that have opened doors, made life easier, and put smiles on people’s faces, including mine.
 
-Now, I want to try to open doors, make life easier, and put smiles on people’s faces :).
+Now, I want to try to open doors, make life easier, and put smiles on people’s faces 😀.
 
 That’s why I decided to pursue Computer Science, and keep learning and living with the cutting edge.
 
