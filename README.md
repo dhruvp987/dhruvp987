@@ -1,5 +1,6 @@
 ## Hi mom and dad 👋
-<a href="https://www.linkedin.com/in/dhruvpatel789"><img alt="LinkedIn Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
+<a href="https://dhrpatel.com"><img alt="Website Static Badge" src="https://img.shields.io/badge/Website-green?style=for-the-badge"></a>
+<a href="https://linkedin.com/in/dhruvpatel789"><img alt="LinkedIn Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
 
 I want to build the fun stuff that everyone can enjoy.
 
