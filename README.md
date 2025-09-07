@@ -1,7 +1,7 @@
 ## Hi mom and dad 👋
 <a href="https://dhrpatel.com"><img alt="Website Static Badge" src="https://img.shields.io/badge/Website-green?style=for-the-badge"></a>
 <a href="https://linkedin.com/in/dhruvpatel789"><img alt="LinkedIn Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
-<a href="mailto:dhruvr.patel.business@gmail.com"><img alt="Email Static Badge" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge"></a>
+<a href="mailto:dhruvr.patel.business@gmail.com"><img alt="Email Static Badge" src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a>
 
 I want to build the fun stuff that everyone can enjoy.
 
