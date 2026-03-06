@@ -3,6 +3,14 @@
 <a href="https://linkedin.com/in/dhruvpatel789"><img alt="LinkedIn Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
 <a href="mailto:dhruvr.patel.business@gmail.com"><img alt="Email Static Badge" src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/371cbc01-de1f-449e-9ffb-549f1a93d7d1" alt="Fast Plane">
+</p>
+
+<p align="center">
+  <sup><i>Credit to ThaSilentArtist (https://www.pixilart.com/art/-0223d658058f86d?ft=topic&ft_id=12)</i></sup>
+</p>
+
 I want to build the fun stuff that everyone can enjoy.
 
 Why? Because it is exciting what can be done, and the potential is life-changing!
